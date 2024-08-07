@@ -6,6 +6,7 @@ interface UserCardProps {
     email : string;
 }
 export type { UserCardProps };
+
 // add type for UserCardDetail's Props
 interface UserCardDetailProps {
     email : string;
